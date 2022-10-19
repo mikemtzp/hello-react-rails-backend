@@ -6,7 +6,7 @@
 - Ruby on Rails
 - PostsgreSQL
 
-## [Hello Rails-React (Front-end)](pending)
+## [Hello Rails-React (Front-end)](https://github.com/mikemtzp/hello-react-rails-frontend)
 
 ## 🧮 Prerequisites
 
